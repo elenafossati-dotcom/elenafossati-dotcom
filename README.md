@@ -13,6 +13,7 @@ I'm interested in using data to better understand sport: **sports integrity** (d
 
 | Project | Description | Tools |
 | --- | --- | --- |
+| [ITA anti-doping sanctions](https://github.com/elenafossati-dotcom/ita-doping-sanctions-analysis) | What explains the length of doping suspensions? 102 public ITA cases, 2021-2025 (individual project, 2026) | Python |
 | [Football pitch infill perceptions](https://github.com/elenafossati-dotcom/football-infill-perceptions) | How players perceive eco-friendly infill on synthetic turf (group project, UNIL, 2026) | Stata |
 | [Swiss Women's Super League attendance](https://github.com/elenafossati-dotcom/swiss-womens-football-attendance) | Attendance and home advantage in Swiss women's football, 2023-2026 (group project, UNIL, 2026) | Stata |
 *More projects coming as I progress through my Master's.*
