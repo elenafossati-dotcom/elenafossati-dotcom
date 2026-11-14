@@ -1,21 +1,5 @@
 [README.md](https://github.com/user-attachments/files/34860574/README.md)
 ## Hi there 👋
-
-<!--
-**elenafossati-dotcom/elenafossati-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># Hi, I'm Elena Fossati
-
 MSc student in **Sport and Leisure Management** at the University of Lausanne (UNIL), with a Bachelor's in Economics from HEC Lausanne. Based in Lausanne, Switzerland.
 
 I'm interested in using data to better understand sport: **sports integrity** (doping, fair competition), **sports economics**, and the organisation of **major sporting events**. Alongside my studies, I've worked on events such as UTMB, Athletissima and the FISU World University Championship Triathlon.
@@ -36,5 +20,5 @@ I'm interested in using data to better understand sport: **sports integrity** (d
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[LinkedIn](www.linkedin.com/in/elena-fossati-0a716829b)
 
