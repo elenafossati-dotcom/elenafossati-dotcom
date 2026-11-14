@@ -19,6 +19,5 @@ I'm interested in using data to better understand sport: **sports integrity** (d
 *More projects coming as I progress through my Master's.*
 
 ## Contact
-
-[LinkedIn](www.linkedin.com/in/elena-fossati-0a716829b)
+[LinkedIn](https://www.linkedin.com/in/elena-fossati-0a716829b)
 
