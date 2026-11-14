@@ -13,8 +13,7 @@ I'm interested in using data to better understand sport: **sports integrity** (d
 
 | Project | Description | Tools |
 | --- | --- | --- |
-| [Doping database](https://github.com/USERNAME/doping-database-stata) | Building and structuring a database on doping in sport (UNIL, 2026) | Stata |
-| [Swiss Athletics financial analysis](https://github.com/USERNAME/swiss-athletics-financial-analysis) | Analysis of the public accounts of the Swiss athletics federation, 2023 – 2025 (group project, UNIL, 2026) | Excel |
+| [Football pitch infill perceptions](https://github.com/elenafossati-dotcom/football-infill-perceptions) | How players perceive eco-friendly infill on synthetic turf (group project, UNIL, 2026) | Stata |
 
 *More projects coming as I progress through my Master's.*
 
